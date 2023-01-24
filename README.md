@@ -1,4 +1,5 @@
-ch-gpx-parse [![NPM Version](https://badge.fury.io/js/ch-gpx-parse.png)](https://badge.fury.io/js/ch-gpx-parse) ========
+ch-gpx-parse [![NPM Version](https://badge.fury.io/js/ch-gpx-parse.png)](https://badge.fury.io/js/ch-gpx-parse) 
+========
 
 A library for parsing gpx data. Forked from https://github.com/elliotstokes/gpx-parse
 
