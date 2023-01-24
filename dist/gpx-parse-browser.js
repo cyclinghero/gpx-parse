@@ -241,7 +241,8 @@ exports.parseGpx = function(gpxString, callback) {
           gpxResult = _ParseV11(data.gpx);
           break;
         default:
-          return callback(new Error("version not supported"), null);
+          gpxResult = _ParseV11(data.gpx);
+          // return callback(new Error("version not supported"), null);
       }
 
       callback(null, gpxResult);
