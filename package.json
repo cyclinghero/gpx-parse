@@ -1,8 +1,8 @@
 {
   "name": "gpx-parse",
-  "author": "Elliot Stokes",
-  "description": "a GPX parser for Node and client-side JavaScript.",
-  "version": "0.10.4",
+  "author": "Mark Mulder",
+  "description": "a GPX parser for Node and client-side JavaScript. Forked from https://github.com/elliotstokes/gpx-parse.git",
+  "version": "0.10.5",
   "license": "MIT",
   "keywords": [
     "gpx",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elliotstokes/gpx-parse.git"
+    "url": "https://github.com/cyclinghero/gpx-parse.git"
   },
   "devDependencies": {
     "browserify": "~13.2.0",
