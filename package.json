@@ -2,7 +2,7 @@
   "name": "ch-gpx-parse",
   "author": "Mark Mulder",
   "description": "a GPX parser for Node and client-side JavaScript. Forked from https://github.com/elliotstokes/gpx-parse.git",
-  "version": "0.10.5",
+  "version": "0.10.6",
   "license": "MIT",
   "keywords": [
     "gpx",
